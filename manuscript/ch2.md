@@ -288,7 +288,7 @@ Do you spot the `[ .. ]` brackets around the parameter list now? This is called 
 
 In this example, destructuring tells the engine that an array is expected in this assignment position (aka parameter). The pattern says to take the first value of that array and assign to a local parameter variable called `x`, the second to `y`, and whatever is left is *gathered* into `args`.
 
-### The Importance of Declarative Style
+### The Importance of Declarative Style (Pick up here)
 
 Considering the destructured `foo(..)` we just looked at, we could instead have processed the parameters manually:
 
